@@ -1,0 +1,16 @@
+{
+  "name": "quickstart",
+  "version": "0.0.1",
+  "description": "npm based CLI to help me start new projects easier",
+  "bin": {
+    "quickstart": "runner.js"
+  },
+  "author": "Kasra Rahjerdi <hi@kasra.codes> (http://kasra.codes)",
+  "license": "ISC",
+  "preferGlobal": "true",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "path": "^0.12.7",
+    "shelljs": "^0.7.4"
+  }
+}
