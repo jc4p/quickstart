@@ -6,6 +6,7 @@
     "quickstart": "runner.js"
   },
   "author": "Kasra Rahjerdi <hi@kasra.codes> (http://kasra.codes)",
+  "repository": "jc4p/quickstart",
   "license": "ISC",
   "preferGlobal": "true",
   "dependencies": {
